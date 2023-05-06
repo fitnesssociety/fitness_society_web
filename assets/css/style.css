@@ -102,7 +102,7 @@ p {
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
-  color: #666e82;
+  color: #B5B5B5;
   margin: 0px; }
 
 .bg_cover {
@@ -1569,7 +1569,7 @@ p {
     .single-pricing.pricing-3 .pricing-icon {
       background-color: #2a2b2f; }
     .single-pricing.pricing-3 .pricing-body .pricing-list li {
-      color: #666e82; }
+      color: #B5B5B5; }
     .single-pricing.pricing-3 .pricing-body .main-btn {
       background-color: #2223f9; }
 
@@ -2209,7 +2209,7 @@ p {
       font-size: 24px; } }
 .download-content p {
   font-size: 18px;
-  color: #666e82;
+  color: #B5B5B5;
   font-style: italic;
   padding-top: 15px;
   font-weight: 500; }
@@ -2285,9 +2285,9 @@ p {
       .download-content .download-btn li a.google-play {
         background-color: #5865f2; }
         .download-content .download-btn li a.google-play:hover {
-          background-color: #666e82; }
+          background-color: #B5B5B5; }
       .download-content .download-btn li a.apple-store {
-        background-color: #666e82; }
+        background-color: #B5B5B5; }
         .download-content .download-btn li a.apple-store:hover {
           background-color: #5865f2; }
 
@@ -2457,7 +2457,7 @@ p {
     padding-right: 60px;
     font-size: 16px;
     font-weight: 500;
-    color: #666e82;
+    color: #B5B5B5;
     border: 0;
     background-color: #222;
     border-radius: 5px; }
@@ -2690,7 +2690,7 @@ p {
   .blog-details-content p {
     font-size: 18px;
     line-height: 30px;
-    color: #666e82;
+    color: #B5B5B5;
     font-weight: 400;
     padding-right: 10px;
     margin-top: 25px; }
@@ -2702,7 +2702,7 @@ p {
     margin-right: 14px;
     display: 16px;
     font-weight: 500;
-    color: #666e82; }
+    color: #B5B5B5; }
     .blog-details-content .blog-details-meta a i {
       color: #5865f2;
       padding-right: 5px; }
@@ -2737,7 +2737,7 @@ p {
         .blog-details-meta .blog-details-tags span {
           font-size: 16px; } }
     .blog-details-meta .blog-details-tags a {
-      color: #666e82;
+      color: #B5B5B5;
       font-size: 16px;
       font-weight: 500;
       -webkit-transition: all 0.3s linear;
@@ -2904,7 +2904,7 @@ p {
         line-height: 45px;
         font-size: 14px;
         font-weight: 700;
-        background-color: #666e82;
+        background-color: #B5B5B5;
         color: #222; }
 
 .comment-form {
@@ -3022,7 +3022,7 @@ p {
       .sidebar .sidebar-post .sidebar-post-wrap .sidebar-post-single .sidebar-post-content .post-title a {
         font-size: 16px;
         font-weight: 600;
-        color: #666e82;
+        color: #B5B5B5;
         -webkit-transition: all 0.3s linear;
         -moz-transition: all 0.3s linear;
         -ms-transition: all 0.3s linear;
@@ -3048,7 +3048,7 @@ p {
     .sidebar .sidebar-category .sidebar-category-list li a {
       font-size: 16px;
       font-weight: 600;
-      color: #666e82;
+      color: #B5B5B5;
       margin-top: 15px;
       -webkit-transition: all 0.3s linear;
       -moz-transition: all 0.3s linear;
@@ -3077,7 +3077,7 @@ p {
       .sidebar .sidebar-tags .sidebar-tags-list li a {
         font-size: 16px;
         font-weight: 600;
-        color: #666e82;
+        color: #B5B5B5;
         -webkit-transition: all 0.3s linear;
         -moz-transition: all 0.3s linear;
         -ms-transition: all 0.3s linear;
