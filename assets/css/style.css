@@ -705,11 +705,11 @@ p {
   .banner-content-wrapper .banner-image {
     margin-top: 50px; }
     .banner-content-wrapper .banner-image .image {
-      -webkit-transform: rotate(15deg);
-      -moz-transform: rotate(15deg);
-      -ms-transform: rotate(15deg);
-      -o-transform: rotate(15deg);
-      transform: rotate(15deg);
+      -webkit-transform: rotate(0deg);
+      -moz-transform: rotate(0deg);
+      -ms-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      transform: rotate(0deg);
       -webkit-animation: ImgBounce1 2s ease-in-out infinite alternate;
       -moz-animation: ImgBounce1 2s ease-in-out infinite alternate;
       -o-animation: ImgBounce1 2s ease-in-out infinite alternate;
@@ -717,30 +717,30 @@ p {
 
 @-webkit-keyframes ImgBounce1 {
   0% {
-    -webkit-transform: translateY(0) rotate(15deg);
-    -moz-transform: translateY(0) rotate(15deg);
-    -ms-transform: translateY(0) rotate(15deg);
-    -o-transform: translateY(0) rotate(15deg);
-    transform: translateY(0) rotate(15deg); }
+    -webkit-transform: translateY(0) rotate(0deg);
+    -moz-transform: translateY(0) rotate(0deg);
+    -ms-transform: translateY(0) rotate(0deg);
+    -o-transform: translateY(0) rotate(0deg);
+    transform: translateY(0) rotate(0deg); }
   100% {
-    -webkit-transform: translateY(-20px) rotate(15deg);
-    -moz-transform: translateY(-20px) rotate(15deg);
-    -ms-transform: translateY(-20px) rotate(15deg);
-    -o-transform: translateY(-20px) rotate(15deg);
-    transform: translateY(-20px) rotate(15deg); } }
+    -webkit-transform: translateY(-20px) rotate(0deg);
+    -moz-transform: translateY(-20px) rotate(0deg);
+    -ms-transform: translateY(-20px) rotate(0deg);
+    -o-transform: translateY(-20px) rotate(0deg);
+    transform: translateY(-20px) rotate(0deg); } }
 @keyframes ImgBounce {
   0% {
-    -webkit-transform: translateY(0) rotate(15deg);
-    -moz-transform: translateY(0) rotate(15deg);
-    -ms-transform: translateY(0) rotate(15deg);
-    -o-transform: translateY(0) rotate(15deg);
-    transform: translateY(0) rotate(15deg); }
+    -webkit-transform: translateY(0) rotate(0deg);
+    -moz-transform: translateY(0) rotate(0deg);
+    -ms-transform: translateY(0) rotate(0deg);
+    -o-transform: translateY(0) rotate(0deg);
+    transform: translateY(0) rotate(0deg); }
   100% {
-    -webkit-transform: translateY(-20px) rotate(15deg);
-    -moz-transform: translateY(-20px) rotate(15deg);
-    -ms-transform: translateY(-20px) rotate(15deg);
-    -o-transform: translateY(-20px) rotate(15deg);
-    transform: translateY(-20px) rotate(15deg); } }
+    -webkit-transform: translateY(-20px) rotate(0deg);
+    -moz-transform: translateY(-20px) rotate(0deg);
+    -ms-transform: translateY(-20px) rotate(0deg);
+    -o-transform: translateY(-20px) rotate(0deg);
+    transform: translateY(-20px) rotate(0deg); } }
 .banner-counter {
   padding-top: 40px; }
   .banner-counter .counter-title .title {
@@ -1035,11 +1035,11 @@ p {
   border-bottom: 1px solid #d7dbe7; }
 
 .powerful-image .image {
-  -webkit-transform: rotate(-15deg);
-  -moz-transform: rotate(-15deg);
-  -ms-transform: rotate(-15deg);
-  -o-transform: rotate(-15deg);
-  transform: rotate(-15deg);
+  -webkit-transform: rotate(-0deg);
+  -moz-transform: rotate(-0deg);
+  -ms-transform: rotate(-0deg);
+  -o-transform: rotate(-0deg);
+  transform: rotate(-0deg);
   margin-left: -75px;
   -webkit-animation: ImgBounce2 2s ease-in-out infinite alternate;
   -moz-animation: ImgBounce2 2s ease-in-out infinite alternate;
@@ -1057,30 +1057,30 @@ p {
 
 @-webkit-keyframes ImgBounce2 {
   0% {
-    -webkit-transform: translateY(0) rotate(-15deg);
-    -moz-transform: translateY(0) rotate(-15deg);
-    -ms-transform: translateY(0) rotate(-15deg);
-    -o-transform: translateY(0) rotate(-15deg);
-    transform: translateY(0) rotate(-15deg); }
+    -webkit-transform: translateY(0) rotate(-0deg);
+    -moz-transform: translateY(0) rotate(-0deg);
+    -ms-transform: translateY(0) rotate(-0deg);
+    -o-transform: translateY(0) rotate(-0deg);
+    transform: translateY(0) rotate(-0deg); }
   100% {
-    -webkit-transform: translateY(-20px) rotate(-15deg);
-    -moz-transform: translateY(-20px) rotate(-15deg);
-    -ms-transform: translateY(-20px) rotate(-15deg);
-    -o-transform: translateY(-20px) rotate(-15deg);
-    transform: translateY(-20px) rotate(-15deg); } }
+    -webkit-transform: translateY(-20px) rotate(-0deg);
+    -moz-transform: translateY(-20px) rotate(-0deg);
+    -ms-transform: translateY(-20px) rotate(-0deg);
+    -o-transform: translateY(-20px) rotate(-0deg);
+    transform: translateY(-20px) rotate(-0deg); } }
 @keyframes ImgBounce {
   0% {
-    -webkit-transform: translateY(0) rotate(-15deg);
-    -moz-transform: translateY(0) rotate(-15deg);
-    -ms-transform: translateY(0) rotate(-15deg);
-    -o-transform: translateY(0) rotate(-15deg);
-    transform: translateY(0) rotate(-15deg); }
+    -webkit-transform: translateY(0) rotate(-0deg);
+    -moz-transform: translateY(0) rotate(-0deg);
+    -ms-transform: translateY(0) rotate(-0deg);
+    -o-transform: translateY(0) rotate(-0deg);
+    transform: translateY(0) rotate(-0deg); }
   100% {
-    -webkit-transform: translateY(-20px) rotate(-15deg);
-    -moz-transform: translateY(-20px) rotate(-15deg);
-    -ms-transform: translateY(-20px) rotate(-15deg);
-    -o-transform: translateY(-20px) rotate(-15deg);
-    transform: translateY(-20px) rotate(-15deg); } }
+    -webkit-transform: translateY(-20px) rotate(-0deg);
+    -moz-transform: translateY(-20px) rotate(-0deg);
+    -ms-transform: translateY(-20px) rotate(-0deg);
+    -o-transform: translateY(-20px) rotate(-0deg);
+    transform: translateY(-20px) rotate(-0deg); } }
 .powerful-tools-content .powerful-content-wrapper {
   padding-top: 38px; }
   .powerful-tools-content .powerful-content-wrapper p {
@@ -1831,8 +1831,8 @@ p {
     -ms-transform: translateX(-50%);
     -o-transform: translateX(-50%);
     transform: translateX(-50%);
-    top: 0;
-    height: 100%;
+    top: 10%;
+    height: 80%;
     background-image: url(../images/screens/frame.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -2279,7 +2279,7 @@ p {
         display: block; }
       .download-content .download-btn li a .text-2 {
         font-size: 18px;
-        font-weight: 700;
+        font-weight: 700; 
         color: #222;
         display: block; }
       .download-content .download-btn li a.google-play {
