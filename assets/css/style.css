@@ -1824,8 +1824,8 @@ p {
   .screenshot-active::before {
     position: absolute;
     content: '';
-    width: 21%;
-    left: 50%;
+    width: 19%;
+    left: 49%;
     -webkit-transform: translateX(-50%);
     -moz-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
@@ -1850,7 +1850,8 @@ p {
       .screenshot-active::before {
         width: 38%; } }
   .screenshot-active .single-screenshot img {
-    width: 100%; }
+    left: 50%;
+    width: 90%; height: 90% }
 
 .screenshot-pagination {
   position: relative;
