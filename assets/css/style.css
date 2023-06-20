@@ -560,7 +560,9 @@ p {
        03.Banner css 
 ===========================*/
 .banner-area {
-  position: relative;
+  background: radial-gradient(ellipse at center, rgb(41, 41, 41) 10%, #000000 100%);
+  position: center;
+   
   z-index: 5;
   padding-top: 180px;
   padding-bottom: 110px;
