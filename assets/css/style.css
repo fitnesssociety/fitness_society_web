@@ -1833,8 +1833,8 @@ p {
     -ms-transform: translateX(-50%);
     -o-transform: translateX(-50%);
     transform: translateX(-50%);
-    top: 10%;
-    height: 80%;
+    top: 11%;
+    height: 79%;
     background-image: url(../images/screens/frame.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
