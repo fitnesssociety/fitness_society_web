@@ -40,6 +40,10 @@ body {
 img {
   max-width: 100%; }
 
+.center-text {
+  text-align: center;
+}
+
 a:focus,
 input:focus,
 textarea:focus,
